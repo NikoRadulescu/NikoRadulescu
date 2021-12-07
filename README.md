@@ -1,6 +1,6 @@
 ### Hello,
 
-My name is Nicoleta Radulescu, I’m a Madrid-based Data-Analyst and BI Engineer and a proud mom.
+My name is [Nicoleta Radulescu](https://www.linkedin.com/in/cornelia-nicoleta-radulescu-6b3b7b16a/), I’m a Madrid-based Data-Analyst and BI Engineer and a proud mom.
 
 
 ### GOALS:
@@ -11,14 +11,14 @@ My name is Nicoleta Radulescu, I’m a Madrid-based Data-Analyst and BI Engineer
 
 
 ### CERTIFICATIONS:
-- 2021: Google Data Analytics (Coursera + Google)
-- 2020: Cloud Computing (Google)
-- 2020: SQL For Data Science With Google BigQuery (Udemy)
-- 2020: Introduction to Data Studio (Google)
+- 2021: [Google Data Analytics (Coursera + Google)](https://www.coursera.org/account/accomplishments/professional-cert/HEXY85T6YTXF)
+- 2020: [Cloud Computing (Google. ID:UQRVYSL3T)](https://learndigital.withgoogle.com/activate/validate-certificate-code)
+- 2020: [SQL For Data Science With Google BigQuery (Udemy)](https://www.udemy.com/certificate/UC-8da8f328-39c6-47c2-93ff-323bd0dd101d/)
+- 2020: [Introduction to Data Studio (Google)](https://analytics.google.com/analytics/academy/certificate/ZCuyaav-QUCtYO28cAmVYg)
 - 2020: Google Analytics Individual Qualification (Google)
-- 2020: Google Tag Manager Fundamentals (Google)
-- 2019: Advanced Google Analytics (Google)
-- 2019: The fundamentals of digital marketing (Google)
+- 2020: [Google Tag Manager Fundamentals (Google)](https://analytics.google.com/analytics/academy/certificate/xvXKCiqOTIqyMwyZvrT5tQ)
+- 2019: [Advanced Google Analytics (Google)](https://analytics.google.com/analytics/academy/certificate/oEV5_XK3RU6WD3_w-qoSlQ)
+- 2019: [The fundamentals of digital marketing (Google. ID:ESHM3GTRZ)](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code)
 - 2018: Bertelsmann Data Science Challenge Scholarship (Udacity)
 
 ---
@@ -52,5 +52,5 @@ My name is Nicoleta Radulescu, I’m a Madrid-based Data-Analyst and BI Engineer
 
 
 ### CONTACT ME: 
-- https://www.linkedin.com/in/cornelia-nicoleta-radulescu-6b3b7b16a/
+- [LinkedIn](https://www.linkedin.com/in/cornelia-nicoleta-radulescu-6b3b7b16a)
 
