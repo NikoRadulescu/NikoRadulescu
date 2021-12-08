@@ -37,7 +37,7 @@ My name is [Nicoleta Radulescu](https://www.linkedin.com/in/cornelia-nicoleta-ra
 ### PROJECTS:
 
 - **Dashboarding**: NY Bike Trips, International Country Census, [Covid 19 Data](https://github.com/NikoRadulescu/BigQuery-with-Data-Studio-Case-study-Covid19);
-- **Google Marketing Platform**: Firebase Hosting, GTM, GA4, BigQuery;
+- **Google Marketing Platform**: [Firebase Hosting, GTM, GA4, BigQuery](https://github.com/NikoRadulescu/Firebase-Hosting-GTM-GA4-BigQuery);
 
 
 
