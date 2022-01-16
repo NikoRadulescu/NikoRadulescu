@@ -36,8 +36,11 @@ My name is [Nicoleta Radulescu](https://www.linkedin.com/in/cornelia-nicoleta-ra
 
 ### PROJECTS:
 
-- **Dashboarding**: NY Bike Trips, International Country Census, [Covid 19 Data](https://github.com/NikoRadulescu/BigQuery-with-Data-Studio-Case-study-Covid19);
-- **Google Marketing Platform**: [Firebase Hosting, GTM, GA4, BigQuery](https://github.com/NikoRadulescu/Firebase-Hosting-GTM-GA4-BigQuery);
+- [**Dashboarding: NY Bike Trips, International Country Census**](https://github.com/NikoRadulescu/BigQuery-with-Data-Studio-Case-study-Covid19): analysing public CovidData dataset using GCP BigQuery. Create a dashboard with GMP Data Studio, with focus on CovidDeaths and CovidVaccinations;
+
+- [**Google Marketing Platform: Firebase Hosting, GTM, GA4, BigQuery**](https://github.com/NikoRadulescu/Firebase-Hosting-GTM-GA4-BigQuery): create a landing page. Add GTM and GA4. Publish the landing page on the internet using Firebase Hosting. Enable raw data from GA4 using BigQuery integration;
+  
+- [**Tableau for data mining**](https://github.com/NikoRadulescu/Tableau-for-Data-Mining): analyse bank customer data (6 months period data) and find out why the customers are leaving the bank, using Tableau Public;
 
 
 
