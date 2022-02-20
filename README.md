@@ -36,6 +36,4 @@ My name is [Nicoleta Radulescu](https://www.linkedin.com/in/cornelia-nicoleta-ra
 
 ### CONTACT ME: 
 - LinkedIn: https://www.linkedin.com/in/cornelia-nicoleta-radulescu-6b3b7b16a
-- Email: nicoleta.c.radulescu@gmail.com
-- Mobile: (+34)697.948.480
 
