@@ -1,6 +1,6 @@
 ### Hello,
 
-My name is [Nicoleta Radulescu](https://www.linkedin.com/in/cornelia-nicoleta-radulescu-6b3b7b16a/), I’m a Madrid-based Data-Analyst and BI Engineer and a proud mom.
+My name is [Nicoleta Radulescu](https://www.linkedin.com/in/cornelia-nicoleta-radulescu-6b3b7b16a/), I’m a Madrid-based Data-Analyst and BI Engineer with interests in big data, machine learning, sharing ideas and connecting with people. Also a proud mom, deeply involved in the education of my kid.
 
 ### GOALS:
 - Help companies become better at solving problems through exploring, finding patterns and extract insights in data using cloud solutions at scale. Developing, deploying, and maintaining BI interfaces - data visualization and interactive dashboards, ad hoc reporting, and data modeling tools.
@@ -34,11 +34,8 @@ My name is [Nicoleta Radulescu](https://www.linkedin.com/in/cornelia-nicoleta-ra
   
 - [**Tableau for data mining**](https://github.com/NikoRadulescu/Tableau-for-Data-Mining): analyse bank customer data (6 months period data) and find out why the customers are leaving the bank, using Tableau Public;
 
-### INTERESTS:
-- Solution for big data / validation and cleaning data.
-- Sharing ideas, solutions and connecting with people.
-- Education: deeply involved in the education of my kid.
-
 ### CONTACT ME: 
-- [LinkedIn](https://www.linkedin.com/in/cornelia-nicoleta-radulescu-6b3b7b16a)
+- LinkedIn: https://www.linkedin.com/in/cornelia-nicoleta-radulescu-6b3b7b16a
+- Email: nicoleta.c.radulescu@gmail.com
+- Mobile: (+34)697.948.480
 
