@@ -1,27 +1,30 @@
 ### Hello,
 
-My name is [Nicoleta Radulescu](https://www.linkedin.com/in/cornelia-nicoleta-radulescu-6b3b7b16a/), I’m a Madrid-based Data-Analyst and BI Engineer with expertise in data analysis, visualization, in building effective and insightful dashboards and reports.
+My name is [Nicoleta Radulescu](https://www.linkedin.com/in/cornelia-nicoleta-radulescu-6b3b7b16a/), I’m a Madrid-based Data-Analyst and BI Engineer with expertise in data analysis, visualization, in building effective and insightful dashboards and reports, that can help your business become more efficient, productive, and data-driven.
 
-I can help companies:
-- become better at solving problems through exploring, finding patterns and extract insights in data using cloud solutions at scale; 
-- enable automation for stages like: Capture, Process, Store, Analyze, Explore with sql and low code tools;
-- to unify and combine multiple data sources into a data warehouse/ data lake;
-- with developing, deploying and maintaining data visualization, interactive dashboards and reports;
+As a data expert, I can offer companies the following services to help them optimize their data management and analytics:
+- utilize cloud solutions to extract insights from data by exploring patterns and solving complex problems at scale;
+- automate key stages of data management, including capturing, processing, storing, analyzing, and exploring data using low-code tools and SQL;
+- unify and consolidate multiple data sources into a centralized data warehouse or data lake for easy management and analysis;
+- develop, deploy, and maintain data visualization tools, interactive dashboards, and reports to help businesses make informed decisions based on their data;
+
 
 ### GOALS: 
-- Finding a working environment able to assess, develop and use my skills, creativity and knowledge;
-- Grow as a professional Data analyst and BI Engineer;
+Find a dynamic and stimulating work environment where I can apply my skills, creativity, and knowledge to their fullest potential. As a professional Data Analyst and BI Engineer, I am committed to continual growth and development in these fields, and am eager to take on new challenges and expand my expertise.
 
 ### PROJECTS:
 
-- [**Dashboarding: NY Bike Trips, International Country Census**](https://github.com/NikoRadulescu/BigQuery-with-Data-Studio-Case-study-Covid19): analysing public CovidData dataset using GCP BigQuery. Create a dashboard with GMP Data Studio, with focus on CovidDeaths and CovidVaccinations;
+- [**Dukier.com: View 360**](https://duckier.com) is a project, that I have worked on, that brings together the most important metrics from Meta, TikTok, and Google Ads, and integrates them into Google BigQuery. View 360 consists of a dashboard using Looker Studio, providing real-time insights that are essential for growing their brand and optimizing their advertising spend. Dukier gains access to valuable data from multiple sources, allowing them to better understand their audience, measure the effectiveness of their ad campaigns, and identify areas for improvement;
 
-- [**Google Marketing Platform: Firebase Hosting, GTM, GA4, BigQuery**](https://github.com/NikoRadulescu/Firebase-Hosting-GTM-GA4-BigQuery): create a landing page. Add GTM and GA4. Publish the landing page on the internet using Firebase Hosting. Enable raw data from GA4 using BigQuery integration;
+- [**Dashboarding: NY Bike Trips, International Country Census**](https://github.com/NikoRadulescu/BigQuery-with-Data-Studio-Case-study-Covid19): using GCP BigQuery, I analyzed public CovidData dataset for NY Bike Trips and International Country Census. My goal was to create an informative dashboard using GMP Data Studio, with a special focus on CovidDeaths and CovidVaccinations data;
+
+- [**Google Marketing Platform: Firebase Hosting, GTM, GA4, BigQuery**](https://github.com/NikoRadulescu/Firebase-Hosting-GTM-GA4-BigQuery): I made this project/video using several powerful tools from Google Marketing Platform (Firebase Hosting, Google Tag Manager, Google Analytics 4) and Google Cloud Platform (BigQuery). With these tools, you can create an effective landing page and track user behavior on your website - what most of the digital companies would need;
   
-- [**Tableau for data mining**](https://github.com/NikoRadulescu/Tableau-for-Data-Mining): analyse bank customer data (6 months period data) and find out why the customers are leaving the bank, using Tableau Public;
+- [**Tableau for data mining**](https://github.com/NikoRadulescu/Tableau-for-Data-Mining): Using public data, as a data scientist, my task was to analyze bank customer data spanning over a 6-month period and determine why customers are leaving the bank. Using Tableau Public, I created an interactive dashboard that provided a clear picture of the underlying issues driving customer attrition. This project could help banks to better understand why customers are leaving and provides actionable insights to help reduce churn rates, allowing for informed decision-making and improved customer retention strategies;
 
 
 ### CERTIFICATIONS:
+- 2023: [42 Madrid (february Piscine)](https://www.42madrid.com/)
 - 2021: [Google Data Analytics (Coursera + Google)](https://www.coursera.org/account/accomplishments/professional-cert/HEXY85T6YTXF)
 - 2020: [Cloud Computing (Google. ID:UQRVYSL3T)](https://learndigital.withgoogle.com/activate/validate-certificate-code)
 - 2020: [SQL For Data Science With Google BigQuery (Udemy)](https://www.udemy.com/certificate/UC-8da8f328-39c6-47c2-93ff-323bd0dd101d/)
@@ -30,7 +33,7 @@ I can help companies:
 - 2020: [Google Tag Manager Fundamentals (Google)](https://analytics.google.com/analytics/academy/certificate/xvXKCiqOTIqyMwyZvrT5tQ)
 - 2019: [Advanced Google Analytics (Google)](https://analytics.google.com/analytics/academy/certificate/oEV5_XK3RU6WD3_w-qoSlQ)
 - 2019: [The fundamentals of digital marketing (Google. ID:ESHM3GTRZ)](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code)
-- 2018: Bertelsmann Data Science Challenge Scholarship (Udacity)
+- 2018: Bertelsmann Data Science Challenge Scholarship (Udacity);
 
 ### SKILLS:
 - data analysis;
